@@ -14,12 +14,6 @@
 - **[smart-brain](https://github.com/israa-code/smart-brain)** - smart-brain uses Clarifai API to detect a face in an image.
 - **[smart-brain-api](https://github.com/israa-code/smart-brain-api)** - The backend for smart-brain, built with Node.js, Express, and PostgreSQL, handling user authentication and API requests.
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=israa-code&theme=radical&type=svg)
-
-## 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-code&layout=compact&theme=radical&type=svg)
-
 ## 🎓 Background
 - Associate Degree in Computer Science  
 - Certificate in Web Development  
